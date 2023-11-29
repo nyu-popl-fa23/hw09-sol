@@ -1,6 +1,6 @@
 ## Homework 9
 
-The deadline for Homework 9 is Wednesday, November 22, 8pm. The late submission deadline is Tuesday, November 28, 4pm.
+The deadline for Homework 9 is ~Wednesday, November 22~ Monday, November 27, 8pm. The late submission deadline is ~Tuesday, November 28~ Thursday, November 30, 4pm.
 
 Refer to the homework handout [`hw09.pdf`](hw09.pdf) for details about the assignment. This file provides some information to help you get started with setting up your development environment for the homework assignments.
 
